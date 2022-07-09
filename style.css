@@ -50,14 +50,6 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 0px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
 }
 
 .bloc-md {
